@@ -206,7 +206,7 @@ main h2 {
 
 #bio {
   padding: 50px 0px;
-  background: url("https://polianamaioli.github.io/projeto-final-womakerscode/img/background.png");
+  background: url(./img/background.png);
   background-size: cover;
   background-position: center;
 }
@@ -256,7 +256,7 @@ main h2 {
 
 #livro {
     padding: 50px 0px;
-    background: url(../img/background.png);
+    background: url(./img/background.png);
     background-size: cover;
     background-position: center;
 }
